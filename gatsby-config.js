@@ -9,7 +9,7 @@ module.exports = {
     description: '路在脚下',
     navLinks: [
       {
-        name: 'gitbuh',
+        name: 'github',
         url: 'https://github.com/lululutx/',
       },
     ],
